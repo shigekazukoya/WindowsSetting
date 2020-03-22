@@ -4,11 +4,12 @@ Launcher新しくしました(2020-03-15)
 
 # Keypiriha
 ↓ファイル名を指定して実行をLauncher化しておりまいたが､
-![](2020-03-15-14-40-11.png)
+<!-- 画像 -->
+
 
 いいLauncherを発見しました｡
 [Keypirinha](https://keypirinha.com/)です｡
-![](2020-03-15-15-04-15.png)
+<!-- 画像 -->
 
 [Keypirinhaの使い方 | PC Plaza](https://pc-plaza.com/keypirinha/)
 
@@ -23,19 +24,12 @@ include_dirs = yes
 include_files = yes
 filters =
 ```
+<!-- 画像 -->
 
-![](2020-03-15-15-13-55.png)
 ちなみに､FullPathをLaunchBoxに入れて実行するとhistoryとして覚えてくれます｡
 
 
-Google  Tab エイムネクスト などの使い方も｡
-![](2020-03-15-15-18-02.png)
-
-拡張で
-![](2020-03-15-15-29-06.png)
-![](2020-03-15-15-29-27.png)
-
-といったこともできます｡
+<!-- 画像 -->
 
 
 他ランチャー調べましたが, CLaunch以外は試してないです...
@@ -54,8 +48,3 @@ Google  Tab エイムネクスト などの使い方も｡
 [Windows10 右クリックの編集の関連付けを変更する - 備忘録](https://kagasu.hatenablog.com/entry/2017/07/26/214410)
 
 [QTTabBar - QuizoApps](http://qttabbar-ja.wikidot.com/)
-
-oyam
-
-
-oyam
